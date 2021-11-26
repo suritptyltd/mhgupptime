@@ -1,7 +1,7 @@
 url: $MHQ_GW
-status: up
-code: 200
+status: down
+code: 0
 responseTime: 0
-lastUpdated: 2021-11-26T09:32:08.388Z
+lastUpdated: 2021-11-26T09:39:09.403Z
 startTime: Fri Nov 26 2021 09:07:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
