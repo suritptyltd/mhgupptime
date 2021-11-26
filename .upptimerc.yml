@@ -26,6 +26,7 @@ sites:
   - name: HQ Internet
     url: $MHQ_GW
   - name: Bella Internet
+    check: "tcp-ping"
     url: $BVH_GW
   - name: Mullane's Internet
     url: $MLH_GW
