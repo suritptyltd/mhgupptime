@@ -28,6 +28,7 @@ sites:
   - name: Bella Internet
     check: "tcp-ping"
     url: $BVH_GW
+    port: 8443
   - name: Mullane's Internet
     url: $MLH_GW
   - name: Duke Internet
