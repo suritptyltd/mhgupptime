@@ -3,20 +3,26 @@ repo: mhgupptime
 sites:
   - name: Office 365
     url: https://office.com
-  - name: Momento Hospitality
+  - name: momentohospitality.com.au
     url: https://momentohospitality.com.au
-  - name: Bella Vista Hotel
+  - name: bellavistahotel.com.au
     url: https://bellavistahotel.com.au
-  - name: Mullane's Hotel
+  - name: mullanes.com.au
     url: https://mullanes.com.au
-  - name: Hillside Hotel
+  - name: hillsidehotel.com.au
     url: https://hillsidehotel.com.au
-  - name: Duke of Dural
+  - name: thedukeofdural.com.au
     url: https://thedukeofdural.com.au
-  - name: The Governor Hotel
+  - name: thegovernorhotel.com.au
     url: https://thegovernorhotel.com.au
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: learnhospo.com.au
+    url: https://learnhospo.com.au
+  - name: bangbangdrinks.com
+    url: https://www.bangbangdrinks.com
+  - name: thedrinkstore.com.au
+    url: https://www.thedrinkstore.com.au
+  - name: origincoffeeliqueur.com
+    url: https://origincoffeeliqueur.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 status-website:
