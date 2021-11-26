@@ -25,7 +25,7 @@ sites:
     url: https://origincoffeeliqueur.com
   - name: HQ Internet
     check: "tcp-ping"
-    url: $MHW_GW
+    url: $MHQ_GW
   #  port: 53
   - name: Bella Internet
     check: "tcp-ping"
