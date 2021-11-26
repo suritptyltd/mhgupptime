@@ -1,21 +1,28 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: suritptyltd
+repo: mhgupptime
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Office 365
+    url: https://office.com
+  - name: Momento Hospitality
+    url: https://momentohospitality.com.au
+  - name: Bella Vista Hotel
+    url: https://bellavistahotel.com.au
+  - name: Mullane's Hotel
+    url: https://mullanes.com.au
+  - name: Hillside Hotel
+    url: https://hillsidehotel.com.au
+  - name: Momento Hospitality
+    url: https://momentohospitality.com.au
+  - name: Momento Hospitality
+    url: https://momentohospitality.com.au
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.momento.group
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
