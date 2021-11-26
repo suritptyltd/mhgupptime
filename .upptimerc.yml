@@ -27,6 +27,26 @@ sites:
     check: "tcp-ping"
     url: $MHW_GW
   #  port: 53
+  - name: Bella Internet
+    check: "tcp-ping"
+    url: $BVH_GW
+  #  port: 53
+  - name: Mullane's Internet
+    check: "tcp-ping"
+    url: $MLH_GW
+  #  port: 53
+  - name: Duke Internet
+    check: "tcp-ping"
+    url: $TDH_GW
+  #  port: 53
+  - name: Hillside Internet
+    check: "tcp-ping"
+    url: $HSH_GW
+  #  port: 53
+  - name: Governor Internet
+    check: "tcp-ping"
+    url: $TGH_GW
+  #  port: 53
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 status-website:
