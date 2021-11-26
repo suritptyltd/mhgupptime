@@ -11,17 +11,19 @@ sites:
     url: https://mullanes.com.au
   - name: Hillside Hotel
     url: https://hillsidehotel.com.au
-  - name: Momento Hospitality
-    url: https://momentohospitality.com.au
-  - name: Momento Hospitality
-    url: https://momentohospitality.com.au
+  - name: Duke of Dural
+    url: https://thedukeofdural.com.au
+  - name: The Governor Hotel
+    url: https://thegovernorhotel.com.au
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.momento.group
-  baseUrl: /mhgupptime
+  # baseUrl: /mhgupptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
