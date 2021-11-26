@@ -23,6 +23,10 @@ sites:
     url: https://www.thedrinkstore.com.au
   - name: origincoffeeliqueur.com
     url: https://origincoffeeliqueur.com
+  - name: HQ Internet
+    check: "tcp-ping"
+    url: $MHW_GW
+  #  port: 53
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 status-website:
