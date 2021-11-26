@@ -32,7 +32,9 @@ sites:
   - name: Mullane's Internet
     url: $MLH_GW
   - name: Duke Internet
+    check: "tcp-ping"
     url: $TDH_GW
+    port:8443
   - name: Hillside Internet
     url: $HSH_GW
   - name: Governor Internet
