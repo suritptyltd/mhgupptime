@@ -6,7 +6,7 @@ sites:
   - name: momentohospitality.com.au
     url: https://momentohospitality.com.au
   - name: figurz.com.au
-    url: https://figurz.com.au
+    url: http://figurz.com.au
   - name: bellavistahotel.com.au
     url: https://bellavistahotel.com.au
   - name: mullanes.com.au
