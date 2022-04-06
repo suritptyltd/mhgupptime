@@ -1,7 +1,7 @@
 url: https://thegovernorhotel.com.au
-status: up
-code: 200
-responseTime: 3061
-lastUpdated: 2022-04-05T23:14:32.029Z
+status: down
+code: 503
+responseTime: 752
+lastUpdated: 2022-04-06T05:56:54.600Z
 startTime: Fri Nov 26 2021 08:55:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
