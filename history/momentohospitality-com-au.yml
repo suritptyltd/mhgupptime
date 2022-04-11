@@ -1,7 +1,7 @@
 url: https://momentohospitality.com.au
-status: up
-code: 200
-responseTime: 1896
-lastUpdated: 2022-04-10T23:13:06.577Z
+status: down
+code: 500
+responseTime: 1211
+lastUpdated: 2022-04-11T08:36:31.407Z
 startTime: Fri Nov 26 2021 08:54:49 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
