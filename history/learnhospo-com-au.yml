@@ -1,7 +1,7 @@
 url: https://learnhospo.com.au
-status: up
-code: 200
-responseTime: 2321
-lastUpdated: 2022-04-13T23:13:21.340Z
+status: down
+code: 500
+responseTime: 10656
+lastUpdated: 2022-04-14T15:58:25.233Z
 startTime: Fri Nov 26 2021 08:55:05 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
