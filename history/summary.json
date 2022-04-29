@@ -31,7 +31,7 @@
     "time": 2251,
     "timeDay": 2493,
     "timeWeek": 2681,
-    "timeMonth": 2377,
+    "timeMonth": 2379,
     "timeYear": 2251,
     "dailyMinutesDown": {
       "2022-04-12": 17,
@@ -50,15 +50,15 @@
     "icon": "https://favicons.githubusercontent.com/figurz.com.au",
     "slug": "figurz-com-au",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "99.55%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.55%",
     "time": 1210,
     "timeDay": 1813,
     "timeWeek": 1605,
-    "timeMonth": 1210,
+    "timeMonth": 1218,
     "timeYear": 1210,
     "dailyMinutesDown": {
       "2022-04-11": 19,
@@ -80,7 +80,7 @@
     "time": 2322,
     "timeDay": 2670,
     "timeWeek": 2357,
-    "timeMonth": 2333,
+    "timeMonth": 2320,
     "timeYear": 2322,
     "dailyMinutesDown": {
       "2022-04-11": 895,
@@ -106,7 +106,7 @@
     "time": 1363,
     "timeDay": 1452,
     "timeWeek": 1329,
-    "timeMonth": 1340,
+    "timeMonth": 1336,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2021-12-01": 5
@@ -126,7 +126,7 @@
     "time": 2418,
     "timeDay": 2777,
     "timeWeek": 2522,
-    "timeMonth": 2441,
+    "timeMonth": 2448,
     "timeYear": 2418,
     "dailyMinutesDown": {
       "2022-04-11": 895,
@@ -152,7 +152,7 @@
     "time": 2645,
     "timeDay": 2756,
     "timeWeek": 2590,
-    "timeMonth": 2659,
+    "timeMonth": 2643,
     "timeYear": 2645,
     "dailyMinutesDown": {
       "2022-01-03": 24,
@@ -173,7 +173,7 @@
     "time": 2577,
     "timeDay": 2747,
     "timeWeek": 2789,
-    "timeMonth": 2732,
+    "timeMonth": 2742,
     "timeYear": 2577,
     "dailyMinutesDown": {
       "2022-04-11": 895,
@@ -190,18 +190,19 @@
     "url": "https://learnhospo.com.au",
     "icon": "https://favicons.githubusercontent.com/learnhospo.com.au",
     "slug": "learnhospo-com-au",
-    "status": "up",
-    "uptime": "96.66%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "96.67%",
+    "uptimeDay": "99.84%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "96.66%",
+    "uptimeYear": "96.67%",
     "time": 2419,
     "timeDay": 1606,
     "timeWeek": 1949,
-    "timeMonth": 2260,
+    "timeMonth": 2259,
     "timeYear": 2419,
     "dailyMinutesDown": {
+      "2022-04-29": 2,
       "2022-04-14": 29,
       "2022-03-13": 108,
       "2022-03-03": 16,
@@ -235,7 +236,7 @@
     "time": 1502,
     "timeDay": 1778,
     "timeWeek": 1599,
-    "timeMonth": 1548,
+    "timeMonth": 1555,
     "timeYear": 1502,
     "dailyMinutesDown": {
       "2022-04-11": 895,
@@ -259,7 +260,7 @@
     "time": 157,
     "timeDay": 283,
     "timeWeek": 209,
-    "timeMonth": 180,
+    "timeMonth": 175,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2022-03-15": 66
@@ -279,7 +280,7 @@
     "time": 1130,
     "timeDay": 1294,
     "timeWeek": 1107,
-    "timeMonth": 1115,
+    "timeMonth": 1138,
     "timeYear": 1130,
     "dailyMinutesDown": {
       "2021-12-01": 4
@@ -359,7 +360,7 @@
     "time": 195,
     "timeDay": 201,
     "timeWeek": 187,
-    "timeMonth": 194,
+    "timeMonth": 193,
     "timeYear": 195,
     "dailyMinutesDown": {
       "2021-11-26": 20
