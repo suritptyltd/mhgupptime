@@ -293,11 +293,11 @@
     "url": "$MHQ_GW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hq-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -305,6 +305,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-05-18": 5,
       "2021-11-26": 22
     }
   },
@@ -313,11 +314,11 @@
     "url": "$BVH_GW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "bella-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -325,6 +326,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-05-18": 4,
       "2021-11-26": 20
     }
   },
@@ -333,11 +335,11 @@
     "url": "$MLH_GW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mullane-s-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.81%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
     "time": 0,
     "timeDay": 0,
@@ -345,6 +347,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-05-18": 3,
       "2021-11-26": 21
     }
   },
@@ -373,10 +376,10 @@
     "url": "$HSH_GW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "hillside-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 0,
@@ -385,6 +388,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-05-18": 1,
       "2021-11-26": 20
     }
   },
@@ -393,9 +397,9 @@
     "url": "$TGH_GW",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "governor-internet",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -405,6 +409,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2021-11-26": 19
     }
   },
