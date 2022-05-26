@@ -27,16 +27,22 @@ sites:
     url: https://origincoffeeliqueur.com
   - name: HQ Internet
     url: $MHQ_GW
+    port:8443
   - name: Bella Internet
     url: $BVH_GW
+    port:8443
   - name: Mullane's Internet
     url: $MLH_GW
+    port:8443
   - name: Duke Internet
     url: $TDH_GW
+    port:8443
   - name: Hillside Internet
     url: $HSH_GW
+    port:8443
   - name: Governor Internet
     url: $TGH_GW
+    port:8443
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 status-website:
