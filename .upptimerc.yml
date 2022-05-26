@@ -26,22 +26,16 @@ sites:
   - name: origincoffeeliqueur.com
     url: https://origincoffeeliqueur.com
   - name: HQ Internet
-    check: "tcp-ping"
     url: $MHQ_GW
   - name: Bella Internet
-    check: "tcp-ping"
     url: $BVH_GW
   - name: Mullane's Internet
-    check: "tcp-ping"
     url: $MLH_GW
   - name: Duke Internet
-    check: "tcp-ping"
     url: $TDH_GW
   - name: Hillside Internet
-    check: "tcp-ping"
     url: $HSH_GW
   - name: Governor Internet
-    check: "tcp-ping"
     url: $TGH_GW
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
