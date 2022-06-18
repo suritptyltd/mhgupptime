@@ -4,19 +4,19 @@
     "url": "https://office.com",
     "icon": "https://favicons.githubusercontent.com/office.com",
     "slug": "office-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 158,
-    "timeDay": 138,
-    "timeWeek": 203,
-    "timeMonth": 153,
-    "timeYear": 158,
+    "time": 157,
+    "timeDay": 99,
+    "timeWeek": 185,
+    "timeMonth": 150,
+    "timeYear": 157,
     "dailyMinutesDown": {
-      "2022-06-18": 2
+      "2022-06-18": 7
     }
   },
   {
@@ -84,7 +84,7 @@
     "uptimeYear": "99.65%",
     "time": 2491,
     "timeDay": 2515,
-    "timeWeek": 3102,
+    "timeWeek": 3192,
     "timeMonth": 3312,
     "timeYear": 2491,
     "dailyMinutesDown": {
@@ -313,7 +313,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -365,7 +365,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -417,7 +417,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -461,7 +461,7 @@
     "uptime": "87.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "18.20%",
+    "uptimeMonth": "18.19%",
     "uptimeYear": "87.80%",
     "time": 194,
     "timeDay": 0,
@@ -469,7 +469,7 @@
     "timeMonth": 173,
     "timeYear": 194,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -515,7 +515,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
@@ -567,7 +567,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-06-18": 687,
+      "2022-06-18": 693,
       "2022-06-17": 1440,
       "2022-06-16": 1440,
       "2022-06-15": 1440,
